@@ -9,3 +9,5 @@ In this video, you can see that the model predicts well the images given in inpu
 The next step is to build more deeply learning apps using NLP, RNN models and so on..
 
 PS: Sorry for Real Madrid supporters 😁
+
+![iniesta-neymar-messi!](/iniesta-neymar-messi.jpg "iniesta-neymar-messi")
