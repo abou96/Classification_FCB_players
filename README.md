@@ -10,6 +10,8 @@ The next step is to build more deeply learning apps using NLP, RNN models and so
 
 PS: Sorry for Real Madrid supporters 😁
 
+[Watch the output here](https://www.linkedin.com/feed/update/urn:li:activity:6735644438657302528/)
+
 ![iniesta-neymar-messi!](/iniesta-neymar-messi.jpg "iniesta-neymar-messi")
 
 ![iniesta-neymar-messi!](/fcb.jpg "iniesta-neymar-messi")
